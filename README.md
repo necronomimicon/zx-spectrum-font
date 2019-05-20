@@ -1,14 +1,11 @@
-# zxSpectrumPixelFont
-the classic ZXSpectrum 48k rom font converted to modern formats
+# zxSpectrum Font
+the classic ZXSpectrum 48k rom font pixel-perfect converted to modern formats
 
-you will find 4 folders, "strict" folders contains the basic 96 character set with lots of modern glyphs missing, like the ñ and such.
+you will find 4 folders:
+- 'strict' folders contains the basic 96 character set with lots of modern glyphs missing, like the ñ and such
+- 'expanded' folders contains a comprehensive (but non-canon) expanded modern character set that will cover most of your uses, including ñ, `, ´, €, ¿,  et all
+- 'inverted' folders contain the exact same fonts but in reverse, emulating the 'selected' style where everything white was black and vice-versa
 
-the "expanded" folders contains a comprehensive expanded modern character set that will cover most of your uses, like the ñ, `, ´, €, ¿,  etc
+you'll also find [https://github.com/OOQQ/zxSpectrum-font/tree/master/vectorGlyphs](the .svg files for every character) and the [https://github.com/OOQQ/zxSpectrum-font/blob/master/bitFontMaker2Source.txt](bitfontmaker2 sourceCode) https://www.pentacom.jp/pentacom/bitfontmaker2/](used to generate the font) 
 
-The "inverted" folders contain the exact same fonts but in reverse, emulating the inverted "selected" style where everything white was black, and vice-versa.
-
-the font is an exact rendition, at 8px you will have a perfect zxSpectrum character onscreen. x2 sizes are recommended to prevent blurry aliasing.
-
-this font doesn't contain the non-alphanumeric characters since bitFontMaker2 only supported actual letters, i've included the source code for bitFontMaker2 as well
-
-There is included a condensed version that was quite famous back in the day, where characters were just 3 pixels width, allowing 64 characters per line.
+BONUS the 'condensed' folder contains a version that was quite famous back in the day, where characters were just 3 pixels width, and the total character is 4 pixels width, allowing 64 characters per line on your 4:3 TV Screen
