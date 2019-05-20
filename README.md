@@ -10,4 +10,4 @@ you'll also find [the .svg files for every character](https://github.com/OOQQ/zx
 
 **BONUS** the 'condensed' folder contains a version that was quite famous back in the day, where characters were just 3 pixels width, and the total character is 4 pixels width, allowing 64 characters per line on your 4:3 TV Screen
 
-<small>made by [OOQQ](https://github.com/OOQQ/)</small>
+<sup>made by [OOQQ](https://github.com/OOQQ/)</sup>
