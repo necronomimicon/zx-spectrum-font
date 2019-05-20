@@ -1,7 +1,7 @@
 # ZX Spectrum font
 the classic ZX Spectrum 48k rom font pixel-perfect converted to modern formats
 
-### you will find 4 variations:
+### find 4 variations:
 - 'strict' folders contains the basic 96 character set with lots of modern glyphs missing, like the ñ and such
 - 'expanded' folders contains a comprehensive (but non-canon) expanded modern character set that will cover most of your uses, including ñ, `, ´, €, ¿,  et all
 - 'inverted' folders contain the exact same fonts but in reverse, emulating the 'selected' style where everything white was black and vice-versa
